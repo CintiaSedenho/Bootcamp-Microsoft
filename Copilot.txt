@@ -1,0 +1,21 @@
+A criação de agentes inteligentes usando ferramentas como o Copilot envolve o desenvolvimento de soluções baseadas em inteligência artificial que podem interagir com humanos e executar tarefas de maneira eficiente e adaptativa. Esses agentes são projetados para compreender contextos, responder a perguntas, automatizar processos e colaborar com usuários em diferentes cenários.
+
+O Copilot utiliza modelos avançados de linguagem natural para interpretar e gerar textos de maneira contextualizada. Os agentes podem ser ajustados para tarefas específicas, como atendimento ao cliente, suporte técnico ou assistentes pessoais. A integração de interfaces intuitivas e acessíveis facilita a comunicação entre o agente e os usuários. Esses agentes podem ser aprimorados constantemente com novos dados para melhorar suas capacidades.
+
+É possível fazer Integração com Ferramentas Internas da Microsoft e Externas, como por exemplo:
+
+Microsoft 365: Integração com Word, Excel, Outlook e Teams para ajudar em automação de tarefas diárias.
+
+Azure: Uso do Azure AI para escalabilidade e conectividade com outros serviços.
+
+Power Platform: Conexão com Power Automate para criar fluxos de trabalho automáticos.
+
+Ferramentas Externas:
+
+APIs de Terceiros: Conexão com serviços externos via APIs ou plataformas de comércio eletrônico.
+
+Plataformas de Mensageria: Integração com WhatsApp ou outros sistemas de comunicação.
+
+Bibliotecas e Frameworks Customizáveis: Permitem o uso de linguagens como Python para adicionar funcionalidades específicas.
+
+Esses agentes têm o poder de otimizar tarefas e ampliar a eficiência operacional, ao mesmo tempo em que oferecem experiências mais dinâmicas e personalizadas
